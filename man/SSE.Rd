@@ -1,6 +1,6 @@
 \name{SSE}
 \alias{SSE}
-\title{Sum of squared error (SSE) for clustering}
+\title{Sum of squared error (SSE) for cluster evaluation}
 \description{Function to evaluate clustering results with sum of squared error (SSE) by calculating the distance from cluster members to cluster centroids}
 \usage{
 SSE(dataset, clusterVector)

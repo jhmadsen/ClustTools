@@ -1,11 +1,11 @@
 Package: ClustTools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Clustering evaluation package
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Jacob H. Madsen <jacob.madsen1@mail.com>
+Maintainer: Jacob H. Madsen <jacob.madsen1@mail.com>
+Description: Package to evaluate clustering results and evaluate clustering tendency. Offers cluster correlation, cluster index and SSE/SST (for r-squared) as evaluation tools. Offers Hopkins statistic as cluster tendency tool.
+License: MIT + file LICENSE
 Encoding: UTF-8
+URL: https://github.com/jhmadsen/ClustTools
 LazyData: true
